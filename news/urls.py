@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+#from django.conf.urls import include, url
+#from .views import contacts
+#urlpatterns = [
+    #url(r'$', contacts()),
+#]
